@@ -1,2 +1,3 @@
-# hello-world
-1st repository
+# My name is Xueying LU.
+This is my 1st repository.
+
